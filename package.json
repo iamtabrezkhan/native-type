@@ -1,0 +1,30 @@
+{
+  "name": "native-type",
+  "version": "0.0.1",
+  "description": "Use this package to detect object class or native type in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtabrezkhan/native-type.git"
+  },
+  "keywords": [
+    "native",
+    "type",
+    "javascript",
+    "object",
+    "class",
+    "primitive"
+  ],
+  "author": "Tabrez Khan (https://github.com/iamtabrezkhan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamtabrezkhan/native-type/issues"
+  },
+  "homepage": "https://github.com/iamtabrezkhan/native-type#readme",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
